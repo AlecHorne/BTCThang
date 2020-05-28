@@ -1,0 +1,4 @@
+[submodule "dependencies/openvpn3"]
+	path = dependencies/openvpn3
+	url = https://github.com/OpenVPN/openvpn3
+	branch = master
